@@ -1,0 +1,2 @@
+Hello from a C file!
+This line was appended.

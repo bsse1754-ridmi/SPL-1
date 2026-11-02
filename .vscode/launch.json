@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ridmi/Desktop/FileSystem/SPL-1/SPL-1/learning/1-file-system-basics",
+      "program": "/Users/ridmi/Desktop/FileSystem/SPL-1/SPL-1/learning/1-file-system-basics/build/Debug/outDebug"
+    }
+  ]
+}
