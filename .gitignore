@@ -54,3 +54,10 @@ dkms.conf
 # debug information files
 *.dwo
 fs_intro_demo
+
+# File System Simulator
+fs_intro_demo
+struct_pointer_demo
+fs_intro_sample.txt
+disk.img
+.DS_Store
