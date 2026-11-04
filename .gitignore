@@ -53,11 +53,28 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Learning 01 executable
 fs_intro_demo
 
-# File System Simulator
-fs_intro_demo
+
+
+# Learning 02 executable
 struct_pointer_demo
+
+# Ignore Windows executables
+*.exe
+
+# Ignore object files
+*.o
+
+# Ignore temporary learning files
 fs_intro_sample.txt
-disk.img
+
+# Ignore macOS metadata
 .DS_Store
+
+# Ignore generated virtual disk
+disk.img
+# Learning 03 executable
+bitwise_bitmap_demo
